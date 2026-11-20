@@ -16,6 +16,13 @@ Solutions to introductory programming problems from [Quera](https://quera.org), 
 | [Problem-08](Problem-08) | Filled diamond pattern |
 | [Problem-09](Problem-09) | Primes between a and b |
 
+## Build
+
+```bash
+g++ -std=c++17 -O2 main.cpp -o main   # replace main.cpp with the file you want to run
+./main
+```
+
 ## License
 
 Released under the [MIT License](LICENSE): free to use, modify and share with attribution.
